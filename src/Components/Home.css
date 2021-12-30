@@ -1,0 +1,26 @@
+/* input{
+width: 50%;
+padding: 20px 20px;
+margin: 10px 6px;
+display: inline-block;
+border: 1px  linear-gradient(to right, black, orange, yellow, green, blue, indigo, violet);
+border-radius: 4px;
+box-sizing: border-box;
+background-color: rgb(240, 133, 133);
+height: 55px;
+background-color: red; 
+background-image: linear-gradient(to right, black, orange, yellow, green, blue, indigo, violet);
+
+}
+button{
+    width: 100px;
+    margin: 20px;
+    padding: 20px;
+    background-image: linear-gradient(to right, rgb(226, 30, 30),  indigo, violet);
+}
+.button1{
+    width: 50px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(246, 40, 40);
+} */
